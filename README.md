@@ -9,3 +9,5 @@ Consumer: Processes sensor data, filters for alerts, and writes them to the aler
 Windowed Consumer: Calculates the average temperature in the last 10 seconds and writes the KPI to a file and a Kafka topic.
 
 Streamlit Dashboard: Reads the latest KPI and displays it as a metric widget, along with real-time temperature updates and a line chart.
+
+<img width="396" alt="Dashboard screenshot" src="https://github.com/user-attachments/assets/23e0edb6-9e94-4eba-b401-841637a22e61" />
